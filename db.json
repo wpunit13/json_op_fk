@@ -1,4 +1,4 @@
-["posts":[
+{"posts":[
   {
     "userId": 1,
     "title": "First task",
@@ -18,4 +18,4 @@
     "id" : 3
   }
 ]
-]
+}
