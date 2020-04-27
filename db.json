@@ -1,4 +1,4 @@
-[
+["posts":[
   {
     "userId": 1,
     "title": "First task",
@@ -17,4 +17,5 @@
     "body": "third first task",
     "id" : 3
   }
+]
 ]
